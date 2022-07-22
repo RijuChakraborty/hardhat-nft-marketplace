@@ -1,0 +1,5 @@
+.env
+coverage.json
+gas-report.txt
+deployments
+node_modules
